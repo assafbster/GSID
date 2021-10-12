@@ -167,7 +167,7 @@ classifiersinds = [0,1,2,3]
 
 # database and classifier settings
 # the classifiers in use
-classifiernames = ["SGM, M="+str(M),"RF","NB","Logit","PGM"]
+classifiernames = ["SGM, M="+str(M),"RF","NB","Logit"]
 databasename = ['MNIST','BSCRepetition','BSCDouble','BSCvariable','BSC integrated']
 
 #######################################################################
