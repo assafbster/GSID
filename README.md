@@ -1,0 +1,2 @@
+# GSID
+Sequential Information Distilling
